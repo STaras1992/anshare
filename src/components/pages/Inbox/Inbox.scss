@@ -1,0 +1,23 @@
+.inbox-container {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  & ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.inbox-shares-wrapper {
+  min-width: 50%;
+}
+
+.inbox-shares-container {
+}
+
+.inbox-responses-wrapper {
+}
